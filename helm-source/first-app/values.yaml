@@ -42,9 +42,9 @@ service:
 
 ingress:
   enabled: true
-  className: ""
+  className: "nginx"
   annotations:
-     kubernetes.io/ingress.class: nginx
+    # kubernetes.io/ingress.class: nginx
      nginx.ingress.kubernetes.io/server-alias: "app-helm-alias.ingress.internal"
     # kubernetes.io/tls-acme: "true"
   hosts:

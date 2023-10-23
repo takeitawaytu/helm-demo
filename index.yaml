@@ -3,9 +3,9 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-23T15:43:56.063142391+03:00"
+    created: "2023-10-23T15:55:42.164947157+03:00"
     description: A Helm chart for Kubernetes
-    digest: 09b3ccbd6f24975ad6b13435cfe063321c408962c2f4170f1920caf5a087c883
+    digest: b7c057453562f6937be8166f2520ec2b60fee7073ffefc0e41239eb2b4f3b658
     name: first-app
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-23T15:43:56.062489782+03:00"
+    created: "2023-10-23T15:55:42.160691316+03:00"
     description: A Helm chart for Kubernetes
     digest: 5277d5718e8fe37fcaa293e3d9eb030af294f8f144bb59acfe77c9c098729384
     name: first-app
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://takeitawaytu.github.io/helm-demo/helm-releases/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-23T15:43:56.06160521+03:00"
+generated: "2023-10-23T15:55:42.158691167+03:00"
