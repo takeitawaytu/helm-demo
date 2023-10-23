@@ -45,7 +45,7 @@ spec:
             httpGet:
               path: /
               port: http
-          volimeMounts:
+          volumeMounts:
           - name: "persistent-storage"
             mountPath: "/var/www/html"
           resources:
